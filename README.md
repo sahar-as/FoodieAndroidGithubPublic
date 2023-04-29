@@ -30,7 +30,7 @@ I have implemented both: <br />
 <br />
 <b>Splash Screen & Welcome pages</b> <br /><br /> 
 <p align="center"><img src="https://user-images.githubusercontent.com/63088252/235288261-054fec97-8f74-4ea3-ba90-dbdaaa009d91.jpg" /><br /> 
-  <img src="https://user-images.githubusercontent.com/63088252/235288265-f483f609-0514-41d4-9bbe-e3f94ecc30a6.jpg" /> <img src="https://user-images.githubusercontent.com/63088252/235288271-33da11b1-9e7a-4505-ad19-98c36f5e54c1.jpg" />  <img src="https://user-images.githubusercontent.com/63088252/235288273-f515c995-e190-448f-ba2f-57142308588c.jpg" /> <img src="https://user-images.githubusercontent.com/63088252/235288274-34e549bd-efba-4678-b3a9-2a4cc036d9e8.jpg" /></p>
+  <img src="https://user-images.githubusercontent.com/63088252/235288265-f483f609-0514-41d4-9bbe-e3f94ecc30a6.jpg" /> <img src="https://user-images.githubusercontent.com/63088252/235288271-33da11b1-9e7a-4505-ad19-98c36f5e54c1.jpg" /> <br />  <img src="https://user-images.githubusercontent.com/63088252/235288273-f515c995-e190-448f-ba2f-57142308588c.jpg" /> <img src="https://user-images.githubusercontent.com/63088252/235288274-34e549bd-efba-4678-b3a9-2a4cc036d9e8.jpg" /></p>
 <br />
 
 <br />
@@ -52,7 +52,7 @@ I have implemented both: <br />
 <p text-align: left> <b>Main Pages of Application: </b> <br /><br /> 
   When Users log in, the data of different dishes will be loaded from Ktor Server. Now users can see their favorite foods, menus, and dishes. Also, they can go through other screens like Shopping Cart, Profile, Current orders, and Purchase History:</p><br /><br /> 
 <p align="center"><img src="https://user-images.githubusercontent.com/63088252/235294173-94f28bdb-58b3-4669-8f51-ba965806438e.jpg" />
-  <img src="https://user-images.githubusercontent.com/63088252/235294183-7d4e7d81-6665-4b6a-bb29-69e84ac60da2.jpg" /> <img src="https://user-images.githubusercontent.com/63088252/235294193-f98e3184-3cb1-426f-b26c-22ab55a8dcaa.jpg" /> <img src="https://user-images.githubusercontent.com/63088252/235296901-9bca0689-6616-447b-95d3-ad0642e1045d.jpg" /></p>
+  <img src="https://user-images.githubusercontent.com/63088252/235294183-7d4e7d81-6665-4b6a-bb29-69e84ac60da2.jpg" /> <br />  <img src="https://user-images.githubusercontent.com/63088252/235294193-f98e3184-3cb1-426f-b26c-22ab55a8dcaa.jpg" /> <img src="https://user-images.githubusercontent.com/63088252/235296901-9bca0689-6616-447b-95d3-ad0642e1045d.jpg" /></p>
 <br />
 
 
