@@ -72,5 +72,12 @@ User will choose their order, then, by going to the shopping cart and accepting 
   <img src="https://user-images.githubusercontent.com/63088252/235297412-aaf99cec-4998-431a-9091-a8dac5cc1819.jpg" /> <img src="https://user-images.githubusercontent.com/63088252/235297415-6c4ba031-7926-4aef-8d96-c79357cf5bbd.jpg" /></p>
 <br />
 
+<br />
+<p text-align: left> <b> Internet & Server Disconnection </b> <br /><br /> 
+</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/63088252/235297556-dac07fb6-40df-4909-ada1-7bbd9a5b6226.jpg" />
+  <img src="https://user-images.githubusercontent.com/63088252/235297563-646cbb16-5e02-4e3c-90a6-79d60cc381c7.jpg" /> </p>
+<br />
+
 
 
