@@ -6,7 +6,8 @@
 Foodie Restaurant is a Kotlin android application for getting orders from customers and delivering desired dishes to them. <br />
 I have implemented both: <br />
 - **Backend:**<br />
-  For the backend, I use Ktor, JWT Authentication, Hashing method for user password, and H2 Database. Here is the link to Foodie Ktor backend codes:
+  For the backend, I use Ktor, JWT Authentication, Hashing method for user password, and H2 Database. Here is the link to Foodie Ktor backend codes:<br />
+  https://github.com/sahar-as/foodie_ktor_backend<br />
   
   <br />
  - **Android Application:** <br />
